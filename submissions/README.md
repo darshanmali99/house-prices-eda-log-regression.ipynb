@@ -1,7 +1,8 @@
 # Kaggle Submissions
 
-This folder contains submission files generated from different modeling stages for the Kaggle House Prices competition.
+This folder contains Kaggle submission files generated at different modeling stages.
 
 ## Files
-- `submission_day6_baseline.csv` – Baseline Linear Regression
-- `submission_day7_log.csv` – Log-transformed target regression (improved rank)
+- submission_day7_log.csv  
+  Log-transformed target regression model  
+  Leaderboard rank: 4995
